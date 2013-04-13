@@ -1,0 +1,15 @@
+*.go
+*~
+*.db
+*.db*
+startup.scm
+build-aux/
+autom4te.cache/
+configure
+config.status
+config.cache
+Makefile.in
+Makefile
+aclocal.m4
+config.log
+env

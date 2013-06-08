@@ -1,0 +1,1 @@
+guile-girbo is a work in progress, as guile-irc gets more and more complete, this bot will become more and more finished.
